@@ -94,20 +94,10 @@ Before installing PyTorch-GPU, you need to install Anaconda. Anaconda is a popul
    ```bash
    conda -V
 ```
- If the version number is displayed, Anaconda has been installed successfully.
-### Updated README Structure
-If you want to integrate this into the existing README, you can place it under the **Environment Setup** section, like this:
 
 
 
-
-
-
-### Create and Activate a Conda Virtual Environment
-...
-```
-
-Let me know if you need further adjustments!
+If the version number is displayed, Anaconda has been installed successfully.
 ### Install PyTorch-GPU
 
 #### Check CUDA Version
