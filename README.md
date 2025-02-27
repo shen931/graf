@@ -114,8 +114,6 @@ Run the view reconstruction script and install the required dependencies based o
    ```bash
    pip install tensorboardX
    ```
-```
-
 
 ---
 
