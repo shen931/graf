@@ -93,11 +93,11 @@ Before installing PyTorch-GPU, you need to install Anaconda. Anaconda is a popul
 4. Open the command line and run the following command to check the Anaconda version and confirm successful installation:
    ```bash
    conda -V
-```
 
 
 
-If the version number is displayed, Anaconda has been installed successfully.
+
+
 ### Install PyTorch-GPU
 
 #### Check CUDA Version
