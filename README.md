@@ -1,5 +1,3 @@
-Here is the content formatted as a GitHub README in English:
-
 # PyTorch-GPU Environment Setup Guide
 
 This guide provides detailed instructions on how to install PyTorch-GPU and its dependencies, including creating a virtual environment, installing dependencies, and configuring GPU support. Ensure you follow each step carefully to correctly install and configure all components.
