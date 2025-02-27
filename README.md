@@ -78,6 +78,44 @@ Run the view reconstruction script and install the required dependencies based o
    ```bash
    pip install imageio
    ```
+   
+8. Install `pyyaml`:
+   ```bash
+   pip install pyyaml
+   ```
+
+9. Install `scikit-image`:
+   ```bash
+   pip install scikit-image
+   ```
+
+10. Install `IPython`:
+   ```bash
+   pip install IPython
+   ```
+
+11. Install `matplotlib`:
+   ```bash
+   pip install matplotlib
+   ```
+
+12. Install `imageio` and `imageio-ffmpeg`:
+   ```bash
+   pip install imageio==2.12
+   pip install imageio-ffmpeg
+   ```
+
+13. Install `scikit-learn`:
+   ```bash
+   pip install scikit-learn
+   ```
+
+14. Install `tensorboardX`:
+   ```bash
+   pip install tensorboardX
+   ```
+```
+
 
 ---
 
