@@ -84,7 +84,45 @@ Run the view reconstruction script and install the required dependencies based o
    ```
 
 ---
+Here is the updated section for **Installing Anaconda** in English, formatted for a GitHub README:
 
+```markdown
+### Install Anaconda
+Before installing PyTorch-GPU, you need to install Anaconda. Anaconda is a popular Python distribution that includes a wide range of libraries for scientific computing and data analysis.
+
+1. Visit the Anaconda website: [Anaconda Download](https://www.anaconda.com/download).
+2. Download and install Anaconda.
+3. After installation, restart your computer.
+4. Open the command line and run the following command to check the Anaconda version and confirm successful installation:
+   ```bash
+   conda -V
+   ```
+   If the version number is displayed, Anaconda has been installed successfully.
+```
+
+### Updated README Structure
+If you want to integrate this into the existing README, you can place it under the **Environment Setup** section, like this:
+
+```markdown
+## Environment Setup
+
+### Install Anaconda
+Before installing PyTorch-GPU, you need to install Anaconda. Anaconda is a popular Python distribution that includes a wide range of libraries for scientific computing and data analysis.
+
+1. Visit the Anaconda website: [Anaconda Download](https://www.anaconda.com/download).
+2. Download and install Anaconda.
+3. After installation, restart your computer.
+4. Open the command line and run the following command to check the Anaconda version and confirm successful installation:
+   ```bash
+   conda -V
+   ```
+   If the version number is displayed, Anaconda has been installed successfully.
+
+### Create and Activate a Conda Virtual Environment
+...
+```
+
+Let me know if you need further adjustments!
 ### Install PyTorch-GPU
 
 #### Check CUDA Version
