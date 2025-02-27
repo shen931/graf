@@ -153,6 +153,6 @@ pip list
 
 ## Completion
 You have now successfully installed PyTorch-GPU and its dependencies.
-```
+
 
 
