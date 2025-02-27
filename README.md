@@ -155,6 +155,4 @@ pip list
 You have now successfully installed PyTorch-GPU and its dependencies.
 ```
 
-### Notes
-- The content is structured in a clear and organized manner for a GitHub README.
-- If you need further adjustments or additional details, feel free to let me know!
+
