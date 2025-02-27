@@ -1,6 +1,5 @@
 Here is the content formatted as a GitHub README in English:
 
-```markdown
 # PyTorch-GPU Environment Setup Guide
 
 This guide provides detailed instructions on how to install PyTorch-GPU and its dependencies, including creating a virtual environment, installing dependencies, and configuring GPU support. Ensure you follow each step carefully to correctly install and configure all components.
@@ -30,7 +29,6 @@ This section provides a detailed guide on installing PyTorch-GPU and its depende
 1. Clone the `mednerf` project from GitHub:
    ```bash
    git clone https://github.com/abrilcf/mednerf.git
-   ```
 
 2. Create a virtual environment (you can customize the environment name; here, we use `thich`):
    ```bash
