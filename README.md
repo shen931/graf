@@ -30,14 +30,14 @@ This section provides a detailed guide on installing PyTorch-GPU and its depende
    ```bash
    git clone https://github.com/abrilcf/mednerf.git
 
-2. Create a virtual environment (you can customize the environment name; here, we use `thich`):
+2. Create a virtual environment (you can customize the environment name; here, we use `graf`):
    ```bash
-   conda create --name thich python=3.10
+   conda create --name graf python=3.10
    ```
 
 3. Activate the virtual environment:
    ```bash
-   conda activate thich
+   conda activate graf
    ```
 
 ---
@@ -84,7 +84,6 @@ Run the view reconstruction script and install the required dependencies based o
 ---
 Here is the updated section for **Installing Anaconda** in English, formatted for a GitHub README:
 
-```markdown
 ### Install Anaconda
 Before installing PyTorch-GPU, you need to install Anaconda. Anaconda is a popular Python distribution that includes a wide range of libraries for scientific computing and data analysis.
 
@@ -94,7 +93,6 @@ Before installing PyTorch-GPU, you need to install Anaconda. Anaconda is a popul
 4. Open the command line and run the following command to check the Anaconda version and confirm successful installation:
    ```bash
    conda -V
-   ```
    If the version number is displayed, Anaconda has been installed successfully.
 ```
 
