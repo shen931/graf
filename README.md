@@ -12,7 +12,7 @@
 ---
 
 ## Overview
-This section provides a detailed guide on installing PyTorch-GPU and its dependencies, including creating a virtual environment, installing dependencies, and configuring GPU support. Follow each step carefully to ensure all components are installed and configured correctly.
+This section provides a detailed guide on how to install the dependencies required for the project, as well as PyTorch-GPU. including creating a virtual environment, installing dependencies, and configuring GPU support. Follow each step carefully to ensure all components are installed and configured correctly.
 
 ---
 
