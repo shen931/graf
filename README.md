@@ -106,7 +106,7 @@ Run the view reconstruction script and install the required dependencies based o
    pip install scikit-learn
    ```
 
-14. Install `tensorboardX`:
+9. Install `tensorboardX`:
    ```bash
    pip install tensorboardX
    ```
