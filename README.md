@@ -84,23 +84,24 @@ Run the view reconstruction script and install the required dependencies based o
    ```bash
    pip install scikit-image
    ```
-10. Install `IPython`:
+   
+6. Install `IPython`:
    ```bash
-    pip install IPython
+   pip install IPython
    ```
 
-11. Install `matplotlib`:
+7. Install `matplotlib`:
    ```bash
-    pip install matplotlib
+   pip install matplotlib
    ```
-
-12. Install `imageio` and `imageio-ffmpeg`:
+   
+8. Install `imageio` and `imageio-ffmpeg`:
    ```bash
    pip install imageio==2.12
    pip install imageio-ffmpeg
    ```
 
-13. Install `scikit-learn`:
+9. Install `scikit-learn`:
    ```bash
    pip install scikit-learn
    ```
