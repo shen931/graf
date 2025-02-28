@@ -77,7 +77,7 @@ Run the view reconstruction script and install the required dependencies based o
    
 8. Install `pyyaml`:
    ```bash
-   pip install pyyaml
+    pip install pyyaml
    ```
 
 9. Install `scikit-image`:
