@@ -87,12 +87,12 @@ Run the view reconstruction script and install the required dependencies based o
 
 10. Install `IPython`:
    ```bash
-   pip install IPython
+    pip install IPython
    ```
 
 11. Install `matplotlib`:
    ```bash
-   pip install matplotlib
+    pip install matplotlib
    ```
 
 12. Install `imageio` and `imageio-ffmpeg`:
